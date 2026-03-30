@@ -1,1 +1,1 @@
-worker: python iptv_bot.py
+worker: python iptv_bot5.py
